@@ -2,5 +2,3 @@ def nice_func():
 	x=5
 	return x ** 2
 
-# TODO: remove this comment
-Hi, I am a very important file.
